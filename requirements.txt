@@ -1,0 +1,17 @@
+beautifulsoup4==4.12.3
+cachetools==5.5.0
+fastapi==0.115.6
+keybert==0.8.5
+langchain==0.3.15
+langchain_community==0.3.15
+networkx==3.3
+nltk==3.9.1
+numpy==1.23.0 
+gunicorn==20.1.0
+pydantic==2.10.5
+python_docx==1.1.2
+Requests==2.32.3
+scikit_learn==1.6.1
+sentence_transformers==3.3.1
+torch==2.4.1
+uvicorn==0.34.0
